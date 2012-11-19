@@ -1,0 +1,18 @@
+HAL_Kills_the_Crew
+16
+Is_Completely_Operational && All_Circuits_Are_Functioning_Perfectly => HAL_is_Alive
+2001_is_Running_Kind_of_Long && HAL_is_Alive => Film_Sequel_2010
+HAL_Makes_a_Mistake && 2001_is_Running_Kind_of_Long => HAL_Goes_Bonkers
+AE_32_Antena_Is_Fine && HAL_Thinks_AE_32_is_Broken => HAL_Makes_a_Mistake
+HAL_is_Alive && HAL_Misreads_Data => HAL_Thinks_AE_32_is_Broken
+HAL_Goes_Bonkers && HAL_is_Alive => HAL_Kills_the_Crew
+Stanly_Kubrick_is_Awesome && Strauss_is_Awesome => 2001_is_Running_Kind_of_Long
+2001_is_Running_Kind_of_Long && AE_32_Antena_Is_Fine => HAL_Misreads_Data
+HAL_is_Alive && HAL_is_Really_Mean => HAL_Kills_the_Crew
+Is_Completely_Operational
+All_Circuits_Are_Functioning_Perfectly
+Stanly_Kubrick_is_Awesome
+Strauss_is_Awesome
+AE_32_Antena_Is_Fine
+~HAL_is_Really_Mean
+My_Mind_Is_Going_I_Can_Feel_It

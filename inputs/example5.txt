@@ -1,0 +1,11 @@
+Elvis_is_Alive
+9
+UFOs_Kidnap_Me && The_FBI_Taps_My_Phone => I_Freak
+I_Freak && Wear_Tinfoil_Hat => Elvis_is_Alive
+I_Find_Tinfoil && Transmitters_Implanted_in_Brain => Wear_Tinfoil_Hat
+The_FBI_is_Bored => The_FBI_Taps_My_Phone
+I_Watch_Too_Much_X_Files
+I_Find_Tinfoil
+Transmitters_Implanted_in_Brain
+UFOs_Kidnap_Me
+~Taking_My_Haldol

@@ -1,0 +1,9 @@
+Youd_Like_to_be_a_Pepper_too
+7
+Im_a_Pepper && Shes_a_Pepper => Were_All_Peppers
+I_Drink_Dr_Pepper && Im_Proud => Im_a_Pepper
+Hes_a_Pepper && Were_All_Peppers => Youd_Like_to_be_a_Pepper_too
+Shes_a_Pepper
+I_Drink_Dr_Pepper
+~Im_Proud
+Hes_a_Pepper

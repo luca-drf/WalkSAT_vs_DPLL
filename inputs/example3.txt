@@ -1,0 +1,20 @@
+Kids_Laugh
+18
+Wild_Take => Kids_Laugh
+Face_Shaped_Like_Mailbox && Tongue_Jumps_Out => Wild_Take
+Mailbox && Cat_Chasing_Mouse => Runs_Into_Mailbox
+Mailbox => Mail_Comes_To_House
+Runs_Into_Mailbox && Cartoon_Cat => Face_Shaped_Like_Mailbox
+Runs_Into_Mailbox && Cartoon_Cat => Tongue_Jumps_Out
+Cartoon && Cat => Cartoon_Cat
+Cartoon_Cat && Cartoon_Mouse => Cat_Chasing_Mouse
+Cartoon && Mouse => Cartoon_Mouse
+Meow && Tabby && Happy => Purrrr
+Cat => Meow
+Cat
+Mouse
+~Mailbox
+Cartoon
+Dog
+Happy
+Tabby

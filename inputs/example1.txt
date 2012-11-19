@@ -1,0 +1,9 @@
+A_Witch
+7
+Made_of_Wood => A_Witch
+Weighs_Same_as_Duck && Floats_on_Water => Made_of_Wood
+Turned_Me_into_a_Newt && Weighs_Same_as_Duck => Floats_on_Water
+Has_a_Wart && Made_of_Wood => Weighs_Same_as_Duck
+Has_a_Wart && Turned_Me_into_a_Newt => Weighs_Same_as_Duck
+Has_a_Wart
+Turned_Me_into_a_Newt

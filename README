@@ -1,0 +1,21 @@
+Propositional logic SAT solvers using DPLL backward-chaining and WalkSAT
+algorithms.
+
+Compiling istructions:
+$ make
+
+Usage:
+$ ./backwardchaining -i path/to/some/input_file
+$ ./walkSAT -i path/to/some/input_file -p {0..100} -f {0..N} [-H]
+
+Where:
+-p indicates the probability (percentage) to randomly choose to flip a
+literal rather than choose the literal that maximizes the number of
+satisfied clauses.
+
+-f indicates the maximum number of flips WalkSAT should make before
+terminating.
+
+-H flag indicates that the program will initialize the variables using
+a probabilistic heuristic.
+
