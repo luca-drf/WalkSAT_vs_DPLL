@@ -5,7 +5,7 @@ Compiling istructions:
 $ make
 
 Usage:
-$ ./backwardchaining -i path/to/some/input_file
+$ ./DPLL -i path/to/some/input_file
 $ ./walkSAT -i path/to/some/input_file -p {0..100} -f {0..N} [-H]
 
 Where:
