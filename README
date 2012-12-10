@@ -1,9 +1,6 @@
 Propositional logic SAT solvers using DPLL backward-chaining and WalkSAT
 algorithms.
 
-Compiling istructions:
-$ make
-
 Usage:
 $ ./DPLL -i path/to/some/input_file
 $ ./walkSAT -i path/to/some/input_file -p {0..100} -f {0..N} [-H]
