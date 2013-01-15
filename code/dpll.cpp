@@ -3,7 +3,7 @@
 //                                                                      //
 // Natural language SAT solver using DPLL algorithm.                    //
 //                                                                      //
-// Luca Da Rin Fioretto ID: 800533544              ldarinfi@cs.nmsu.edu //
+// Luca Da Rin Fioretto                            ldarinfi@cs.nmsu.edu //
 //**********************************************************************//
 
 
